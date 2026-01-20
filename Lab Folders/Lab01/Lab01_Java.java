@@ -4,9 +4,10 @@ void testMethod1()
   {
   //First command x = y + z
   //Second commnad print(x)
+  //Edit made by Sara Sbai Taleb 240118633
 
 
-  //Last line print('Good bye')
+  //Last line print('TA TA')
 }
 
 void testMethod2()
@@ -21,3 +22,4 @@ void main()
     testMethod1();
     testMethod2();
 }
+
